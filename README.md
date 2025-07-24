@@ -6,19 +6,19 @@ This project demonstrates centralized connectivity, traffic control, and securit
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 
 > Build a scalable and secure cloud network topology using Azure services like VNets, Firewalls, NSGs, and Network Watcher. Spoke networks connect to a central Hub VNet for efficient routing and control.
 
 ---
 
-## 📊 Architecture Diagram
+##  Architecture Diagram
 
 ![Hub and Spoke Azure Diagram](assets/hub-spoke-diagram.png)
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Microsoft Azure
 - Azure Virtual Networks
@@ -30,7 +30,7 @@ This project demonstrates centralized connectivity, traffic control, and securit
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 | Phase | Title                          | Folder                      |
 |-------|--------------------------------|-----------------------------|
@@ -43,27 +43,24 @@ This project demonstrates centralized connectivity, traffic control, and securit
 
 ---
 
-## ⚙️ How to Run This Project
+##  How to Run This Project
 
 > All resources are provisioned using Azure Portal manually.  
 > Refer to each phase’s `steps.md` and `commands.sh` for exact instructions and screenshots.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Kanishk Dwivedi**  
-📍 B.Tech Computer & Communication, Manipal University Jaipur  
-📧 kanishkdw@outlook.com | 🌐 [LinkedIn](https://www.linkedin.com/in/kanishkdw)
+B.Tech Computer & Communication, Manipal University Jaipur  
+ kanishkdw@outlook.com | [LinkedIn](https://www.linkedin.com/in/kanishkdw)
 
 ---
 
-## 📸 Screenshots
-
-Each folder contains visual proof of work performed in Azure Portal.
 
 ---
 
-## 📜 License
+## License
 
 MIT License
